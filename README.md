@@ -1,1 +1,1 @@
-# Daybreak
+# DaybreakA daily planner with scheduled reminders, deployed on AWS.
